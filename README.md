@@ -14,4 +14,4 @@ A Plotly is a Python library that is used to design graphs, especially interacti
 The International Space Station is a large spacecraft in orbit around Earth. It serves as a home where crews of astronauts and cosmonauts live. The space station is also a unique science laboratory. Several nations worked together to build and use the space station. This means it orbits Earth every 90 minutes.
 # scatter-geo
 The data visualized as scatter point or lines on a geographic map is provided either by longitude/latitude pairs in lon and lat respectively or by geographic location IDs or names in locations .
-
+# ![](https://static.businessinsider.com/image/55198cc669bedd86658c0359/image.gif)
